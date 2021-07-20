@@ -26,3 +26,5 @@ fields:
   config:
     required: false
   label: Description
+pages:
+- pages/lorem-ipsum.md
