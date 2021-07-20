@@ -7,7 +7,6 @@ sections:
 - type: document
   path: pages
   label: Careers
-  match: "**/*"
 - type: directory
   path: pages
   label: Pages
